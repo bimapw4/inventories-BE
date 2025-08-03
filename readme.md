@@ -55,7 +55,7 @@ node index.js
 
 
 # 📮 API Endpoints
-You can see the collection postiman in [Collection Postman](https://drive.google.com/file/d/18gpbAzarQBTutlB6-APjBaMJvOc8x73o/view?usp=drive_link)
+You can see the collection postiman in [Collection Postman](https://drive.google.com/file/d/18gpbAzarQBTutlB6-APjBaMJvOc8x73o/view?usp=sharing)
 
 You can just import the collection on the postman
 
