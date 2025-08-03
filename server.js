@@ -1,7 +1,9 @@
 const http = require('http');
+require('dotenv').config()
+
 const inventoryRoute = require('./routes/inventoryRoute');
 
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
 
 const server = http.createServer((req, res) => {
   inventoryRoute(req, res);
